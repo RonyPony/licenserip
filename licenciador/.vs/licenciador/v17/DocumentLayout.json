@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\licenserip\\licenciador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|c:\\projects\\licenserip\\licenciador\\licenciador\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|solutionrelative:licenciador\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|c:\\projects\\licenserip\\licenciador\\licenciador\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|solutionrelative:licenciador\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|c:\\projects\\licenserip\\licenciador\\licenciador\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|solutionrelative:licenciador\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|c:\\projects\\licenserip\\licenciador\\licenciador\\services\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|solutionrelative:licenciador\\services\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|c:\\projects\\licenserip\\licenciador\\licenciador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|solutionrelative:licenciador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|c:\\projects\\licenserip\\licenciador\\licenciador\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|solutionrelative:licenciador\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|c:\\projects\\licenserip\\licenciador\\licenciador\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22597A7-8507-456E-A928-C683A6335A88}|licenciador\\licenciador.csproj|solutionrelative:licenciador\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\projects\\licenserip\\licenciador\\licenciador\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "licenciador\\appsettings.Development.json",
+              "ToolTip": "C:\\projects\\licenserip\\licenciador\\licenciador\\appsettings.Development.json",
+              "RelativeToolTip": "licenciador\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T07:55:22.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projects\\licenserip\\licenciador\\licenciador\\appsettings.json",
+              "RelativeDocumentMoniker": "licenciador\\appsettings.json",
+              "ToolTip": "C:\\projects\\licenserip\\licenciador\\licenciador\\appsettings.json",
+              "RelativeToolTip": "licenciador\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T07:55:17.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\licenserip\\licenciador\\licenciador\\Program.cs",
+              "RelativeDocumentMoniker": "licenciador\\Program.cs",
+              "ToolTip": "C:\\projects\\licenserip\\licenciador\\licenciador\\Program.cs",
+              "RelativeToolTip": "licenciador\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:51:42.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\projects\\licenserip\\licenciador\\licenciador\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "licenciador\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\projects\\licenserip\\licenciador\\licenciador\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "licenciador\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:50:11.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "token.cs",
+              "DocumentMoniker": "C:\\projects\\licenserip\\licenciador\\licenciador\\Models\\token.cs",
+              "RelativeDocumentMoniker": "licenciador\\Models\\token.cs",
+              "ToolTip": "C:\\projects\\licenserip\\licenciador\\licenciador\\Models\\token.cs",
+              "RelativeToolTip": "licenciador\\Models\\token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:49:14.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "token.cs",
+              "DocumentMoniker": "C:\\projects\\licenserip\\licenciador\\licenciador\\Services\\token.cs",
+              "RelativeDocumentMoniker": "licenciador\\Services\\token.cs",
+              "ToolTip": "C:\\projects\\licenserip\\licenciador\\licenciador\\Services\\token.cs",
+              "RelativeToolTip": "licenciador\\Services\\token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:48:22.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\projects\\licenserip\\licenciador\\licenciador\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "licenciador\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\projects\\licenserip\\licenciador\\licenciador\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "licenciador\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:05:30.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
