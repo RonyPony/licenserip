@@ -6,7 +6,7 @@ namespace licenciador.Services
 {
     public interface ITokenService
     {
-        Task<Token> GetTokenAsync();
+        Task<Token> GetTokenAsync(String hash);
     }
 
     public class TokenService : ITokenService
@@ -18,10 +18,11 @@ namespace licenciador.Services
             _context = context;
         }
 
-        public async Task<Token> GetTokenAsync()
+        public async Task<Token> GetTokenAsync(String hsh)
         {
             // Consulta el token desde la base de datos
-            var token = await _context.Tokens.FirstOrDefaultAsync();
+            //var token = await _context.Tokens.FirstOrDefaultAsync();
+            var token = _context.Tokens.Where(ee => ee.hash == hsh && ee.IsValidToken).FirstOrDefault();
 
             return token;
         }

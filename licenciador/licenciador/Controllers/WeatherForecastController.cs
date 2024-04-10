@@ -1,5 +1,6 @@
 using licenciador.Models;
 using licenciador.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace licenciador.Controllers
@@ -15,11 +16,11 @@ namespace licenciador.Controllers
             _tokenService = tokenService;
         }
 
-        [HttpGet("get_token")]
-        public async Task<ActionResult<Token>> GetTokenAsync()
+        [HttpPost("{hash}")]
+        public async Task<ActionResult<Token>> GetTokenAsync(String hash)
         {
             // Consulta el token desde la base de datos utilizando el servicio
-            var token = await _tokenService.GetTokenAsync();
+            var token = await _tokenService.GetTokenAsync(hash);
 
             if (token == null)
             {
